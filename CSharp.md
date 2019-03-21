@@ -5,3 +5,6 @@
 
 ## 便利サイト
 - https://sharplab.io/
+
+## gRPC
+- https://docs.microsoft.com/ja-jp/aspnet/core/grpc/?view=aspnetcore-3.0
