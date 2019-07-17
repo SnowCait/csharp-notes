@@ -11,3 +11,13 @@
 
 ## HttpClient
 - [System.Net.HttpClientのDisposeは、不要なのか？](https://qiita.com/Temarin/items/1ea38d563e75fdacd051)
+
+## PowerShell
+- [C#からPowerShellコマンドの実行](https://qiita.com/akihiro-o/items/bd0ff97f39f95df6c3e3)
+
+## 解像度
+- 取得
+  - `System.Windows.Forms.Screen.PrimaryScreen`
+- 変更
+  - [[C++/CLI] モニタの解像度をプログラムから変更する](https://www.moonmile.net/blog/archives/4133)
+  - PowerShell で `Set-DisplayResolution`
