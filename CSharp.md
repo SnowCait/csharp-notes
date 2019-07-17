@@ -20,4 +20,4 @@
   - `System.Windows.Forms.Screen.PrimaryScreen`
 - 変更
   - [[C++/CLI] モニタの解像度をプログラムから変更する](https://www.moonmile.net/blog/archives/4133)
-  - PowerShell で `Set-DisplayResolution`
+  - PowerShell で `Set-DisplayResolution` ※ Server Core のみ
