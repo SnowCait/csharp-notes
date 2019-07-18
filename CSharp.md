@@ -6,6 +6,9 @@
 ## 便利サイト
 - https://sharplab.io/
 
+## async/await
+- [Taskを極めろ！async/await完全攻略](https://qiita.com/acple@github/items/8f63aacb13de9954c5da)
+
 ## gRPC
 - https://docs.microsoft.com/ja-jp/aspnet/core/grpc/?view=aspnetcore-3.0
 
