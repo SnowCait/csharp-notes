@@ -24,3 +24,10 @@
 
 ## Windows Service
 - [Topshelf](https://github.com/Topshelf/Topshelf)
+
+## Win32 API
+- [【Windows/C#】なるべく丁寧にDllImportを使う](https://qiita.com/mitsu_at3/items/94807ee0b3bf34ffb6b2)
+
+## Process
+- [C#使ってWindowをキャプチャしたり、マウスイベントを送信したりする](http://kokeiro.hatenablog.com/entry/2018/03/26/235837)
+- [C#で他アプリケーションを操作するための基礎知識](https://tech.sanwasystem.com/entry/2015/11/25/171004)
