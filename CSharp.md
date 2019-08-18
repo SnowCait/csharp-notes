@@ -16,6 +16,7 @@
 ## HTTP
 - [System.Net.HttpClientのDisposeは、不要なのか？](https://qiita.com/Temarin/items/1ea38d563e75fdacd051)
 - [HTTP/2 のサポート](https://docs.microsoft.com/ja-jp/dotnet/core/whats-new/dotnet-core-3-0#http2-support)
+- [.NETのHttpClientでメモリに優しく、でかいファイルをダウンロードする](https://qiita.com/thrzn41/items/2754bec8ebad97ecd7fd)
 
 ## PowerShell
 - [C#からPowerShellコマンドの実行](https://qiita.com/akihiro-o/items/bd0ff97f39f95df6c3e3)
