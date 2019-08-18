@@ -36,3 +36,7 @@
 ## Process
 - [C#使ってWindowをキャプチャしたり、マウスイベントを送信したりする](http://kokeiro.hatenablog.com/entry/2018/03/26/235837)
 - [C#で他アプリケーションを操作するための基礎知識](https://tech.sanwasystem.com/entry/2015/11/25/171004)
+
+## スクレイピング
+- [C#でモダンにスクレイピングするならAngleSharp](https://qiita.com/matarillo/items/a92e7efbfd2fdec62595)
+- [スクレイピングにはAngleSharpが良いらしい](http://tekitoumemo.hatenablog.com/entry/2018/09/21/005721)
