@@ -1,7 +1,11 @@
 # MagicOnion
-[Cysharp/MagicOnion: Unified Realtime/API Engine for .NET Core and Unity.](https://github.com/Cysharp/MagicOnion)
 
 ## 参考
+### 公式
+- [Cysharp/MagicOnion: Unified Realtime/API Engine for .NET Core and Unity.](https://github.com/Cysharp/MagicOnion)
+- [neue cc - MagicOnion v1 -> v2リブート, gRPCによる.NET Core/Unity用ネットワークエンジン](http://neue.cc/2018/12/28_572.html)
+- [neue cc - MagicOnion Ver 2.1.0](http://neue.cc/2019/05/14_577.html)
+
 ### gRPC
 - [gRPC / MagicOnion 入門](https://blog.xin9le.net/entry/grpc-magiconion-intro)
 
