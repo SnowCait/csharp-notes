@@ -12,4 +12,5 @@
 - [microsoft/Windows-driver-samples: This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.](https://github.com/microsoft/Windows-driver-samples)
 - [Visual Studio 2019 - WDK for Windows 10, version 1903 · Issue #2994 · appveyor/ci](https://github.com/appveyor/ci/issues/2994)
 - [The build tool for WindowsKernelModeDriver10.0 cannot be found ?](https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/684e5ed6-a964-4911-8c74-9b62cef1ae88/the-build-tool-for-windowskernelmodedriver100-cannot-be-found-?forum=wdk)
+- [Windows 10 でサンプル ドライバーをビルドするまで – Japan WDK Support Blog](https://blogs.msdn.microsoft.com/jpwdkblog/2015/08/21/windows-10/)
 - [Build Drivers from the Command Line - Windows Driver ConsultingWindows Driver Consulting](http://www.windrvr.com/2016/01/06/build-drivers-from-the-command-line/)
