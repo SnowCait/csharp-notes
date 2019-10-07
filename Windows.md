@@ -7,6 +7,7 @@
 - [各バージョンのMSBuildのパスを解決するPower Shellスクリプト - Qiita](https://qiita.com/rot-z/items/6af080223689828225f0)
 
 ## Windows Driver Kit
+- [Download the Windows Driver Kit (WDK) - Windows drivers | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 - [WDK を使ったドライバーのビルド - Windows drivers | Microsoft Docs](https://docs.microsoft.com/ja-jp/windows-hardware/drivers/develop/building-a-driver)
 - [microsoft/Windows-driver-samples: This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.](https://github.com/microsoft/Windows-driver-samples)
 - [Visual Studio 2019 - WDK for Windows 10, version 1903 · Issue #2994 · appveyor/ci](https://github.com/appveyor/ci/issues/2994)
