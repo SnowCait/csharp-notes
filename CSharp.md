@@ -43,3 +43,7 @@
 ## スクレイピング
 - [C#でモダンにスクレイピングするならAngleSharp](https://qiita.com/matarillo/items/a92e7efbfd2fdec62595)
 - [スクレイピングにはAngleSharpが良いらしい](http://tekitoumemo.hatenablog.com/entry/2018/09/21/005721)
+
+## MSBuild
+- [MSBuild - Visual Studio | Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/msbuild/msbuild?view=vs-2019)
+- [MSBuildでコマンドラインからビルドする - 1.21 jigowatts](http://sh-yoshida.hatenablog.com/entry/2017/05/27/012755)
