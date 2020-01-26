@@ -20,6 +20,8 @@
 - [HTTP/2 のサポート](https://docs.microsoft.com/ja-jp/dotnet/core/whats-new/dotnet-core-3-0#http2-support)
 - [.NETのHttpClientでメモリに優しく、でかいファイルをダウンロードする](https://qiita.com/thrzn41/items/2754bec8ebad97ecd7fd)
 - [HttpClient よりも HttpClientFactory を利用したほうが良いかも - 世界のやまさ](https://blog.nnasaki.com/entry/2019/10/04/143936)
+  - [ASP.NET Core で IHttpClientFactory を使用して HTTP 要求を行う | Microsoft Docs](https://docs.microsoft.com/ja-jp/aspnet/core/fundamentals/http-requests?view=aspnetcore-3.0)
+  - [HttpClientFactory を使用して回復力の高い HTTP 要求を実装する | Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests)
 
 ## PowerShell
 - [C#からPowerShellコマンドの実行](https://qiita.com/akihiro-o/items/bd0ff97f39f95df6c3e3)
