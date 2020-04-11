@@ -12,7 +12,7 @@ using .NET Core 3.1;
 - Working with C#
   - Deployment Package
     - .NET Core CLI
-    - AWS Toolkit for Visual Studio
+    - [AWS Toolkit for Visual Studio](#aws-toolkit-for-visual-studio---aws-lambda)
   - Handler
   - Context
   - Logging
