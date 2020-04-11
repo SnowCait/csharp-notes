@@ -25,5 +25,5 @@ You can build .NET-based Lambda applications using the Lambda plugin to the AWS 
   a. **ファイル** メニューから **新規作成** を選択して **プロジェクト** を選択します。  
   b. **新しいプロジェクトの作成** ウィンドウで **AWS Lambda Project (.NET Core)** を選択して **次へ** を選択します。  
   c. **Select Blueprint** ウィンドウで you will be presented with the option of selecting from a list of sample applications that will provide you with sample code to get started with creating a .NET-based Lambda application.  
-  d. スクラッチで Lambda アプリケーションを作成する場合は **Empty Function** を選択して **Finishi** を選択します。  
+  d. スクラッチで Lambda アプリケーションを作成する場合は **Empty Function** を選択して **Finish** を選択します。  
   
