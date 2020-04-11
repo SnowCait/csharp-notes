@@ -12,10 +12,10 @@ using .NET Core 3.1;
 - Working with C#
   - Deployment Package
     - .NET Core CLI
-    - [AWS Toolkit for Visual Studio](#aws-toolkit-for-visual-studio---aws-lambda)
+    - [AWS Toolkit for Visual Studio](#aws-toolkit-for-visual-studio)
   - Handler
   - Context
   - Logging
   - Errors
 
-### [AWS Toolkit for Visual Studio - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/csharp-package-toolkit.html)
+### [AWS Toolkit for Visual Studio](https://docs.aws.amazon.com/lambda/latest/dg/csharp-package-toolkit.html)
