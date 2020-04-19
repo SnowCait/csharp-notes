@@ -27,3 +27,19 @@ You can build .NET-based Lambda applications using the Lambda plugin to the AWS 
   c. **Select Blueprint** ウィンドウで you will be presented with the option of selecting from a list of sample applications that will provide you with sample code to get started with creating a .NET-based Lambda application.  
   d. スクラッチで Lambda アプリケーションを作成する場合は **Empty Function** を選択して **Finish** を選択します。  
   ![](img/select-blueprint.png "Select Bluprint")
+2. プロジェクトの一部として作成された `aws-lambda-tools-defaults.json` ファイルを確認してください。このファイル内にオプションを設定することができます。デフォルトで Lambda tooling に読み込まれます。 Visual Studio によって作成されるプロジェクトテンプレートはこれらの多くのフィールドをデフォルト値で設定します。 Note the following fields:
+  * **profile** - The name of a profile in your [AWS SDK for .NET credentials file](https://docs.aws.amazon.com/sdk-for-net/latest/developer-guide/net-dg-config-creds.html).
+  * **function-handler** - This is where the `function handler` is specified, which is why you don't have to set it in the wizard. However, whenever you rename the *`Assembly`, `Namespace`, `Class` or `Function`* in your function code, you will need to update the corresponding fields in the `aws-lambda-tools-defaults.json file`.
+  ```json
+  {
+    "profile":"default",
+    "region" : "us-east-2",
+    "configuration" : "Release",
+    "framework" : "netcoreapp2.1",
+    "function-runtime":"dotnetcore3.1",
+    "function-memory-size" : 256,
+    "function-timeout" : 30,
+    "function-handler" : "Assembly::Namespace.Class::Function" 
+  }
+  ```
+  
