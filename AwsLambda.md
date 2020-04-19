@@ -72,3 +72,4 @@ namespace AWSLambda2
     }
 }
 ```
+4. Lambda function のコードを書いたら、アプリケーションの **プロジェクト** ノードを右クリックして **Publish to AWS Lambda** を選択することでアップロードすることができます。
