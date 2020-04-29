@@ -85,6 +85,6 @@ namespace AWSLambda2
 * **VPC** – If your function needs network access to resources that are not available over the internet, configure it to connect to a VPC.
 * **DLQ** – If your function is invoked asynchronously, choose a queue or topic to receive failed invocations.
 * **Enable active tracing** – Sample incoming requests and trace sampled requests with AWS X-Ray.
-7. Choose Next and then choose Upload to deploy your application.
+7. **Next** を選択して **Upload** を選択しアプリケーションをデプロイします。
 
 更に情報が必要な場合は [Deploying an AWS Lambda Project with the .NET Core CLI](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/lambda-cli-publish.html) を参照してください。
