@@ -76,7 +76,7 @@ namespace AWSLambda2
 }
 ```
 4. Lambda function のコードを書いたら、アプリケーションの **プロジェクト** ノードを右クリックして **Publish to AWS Lambda** を選択することでアップロードすることができます。
-5. In the Upload Lambda Function window, type a name for the function or select a previously published function to republish. Then choose Next
+5. **Upload Lambda Function** ウィンドウの中で Function の名前を入力または再発行するために前回発行したファンクションを選択します。そして **Next** を選択します。
 6. In the Advanced Function Details window, configure the following options:
 * **Role Name** (required) - Key-value pairs that Lambda sets in the execution environment. Use environment variables to extend your function's configuration outside of code.
 * **Environment** - The amount of memory available to the function during execution. Choose an amount between 128 MB and 3,008 MB in 64-MB increments.
