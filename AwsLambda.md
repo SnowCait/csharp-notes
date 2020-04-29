@@ -78,13 +78,13 @@ namespace AWSLambda2
 4. Lambda function のコードを書いたら、アプリケーションの **プロジェクト** ノードを右クリックして **Publish to AWS Lambda** を選択することでアップロードすることができます。
 5. **Upload Lambda Function** ウィンドウで Function の名前を入力または再発行するために前回発行したファンクションを選択します。そして **Next** を選択します。
 6. **Advanced Function Details** ウィンドウで以下のオプションを設定します:
-* **Role Name** (required) - Key-value pairs that Lambda sets in the execution environment. Use environment variables to extend your function's configuration outside of code.
-* **Environment** - The amount of memory available to the function during execution. Choose an amount between 128 MB and 3,008 MB in 64-MB increments.
-* **Memory** – The amount of memory available to the function during execution. Choose an amount between 128 MB and 3,008 MB in 64-MB increments.
+* **Role Name** (required) - The [IAM role](https://docs.aws.amazon.com/lambda/latest/dg/lambda-intro-execution-role.html) that AWS Lambda assumes when it executes your function.
+* **Environment** - Key-value pairs that Lambda sets in the execution environment. [Use environment variables](https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html) to extend your function's configuration outside of code.
+* **Memory** – The amount of memory available to the function during execution. Choose an amount [between 128 MB and 3,008 MB](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html) in 64-MB increments.
 * **Timeout** – The amount of time that Lambda allows a function to run before stopping it. The default is 3 seconds. The maximum allowed value is 900 seconds.
-* **VPC** – If your function needs network access to resources that are not available over the internet, configure it to connect to a VPC.
-* **DLQ** – If your function is invoked asynchronously, choose a queue or topic to receive failed invocations.
-* **Enable active tracing** – Sample incoming requests and trace sampled requests with AWS X-Ray.
+* **VPC** – If your function needs network access to resources that are not available over the internet, [configure it to connect to a VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html).
+* **DLQ** – If your function is invoked asynchronously, [choose a queue or topic](https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html#dlq) to receive failed invocations.
+* **Enable active tracing** – Sample incoming requests and [trace sampled requests with AWS X-Ray](https://docs.aws.amazon.com/lambda/latest/dg/lambda-x-ray.html).
 7. **Next** を選択して **Upload** を選択しアプリケーションをデプロイします。
 
 更に情報が必要な場合は [Deploying an AWS Lambda Project with the .NET Core CLI](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/lambda-cli-publish.html) を参照してください。
