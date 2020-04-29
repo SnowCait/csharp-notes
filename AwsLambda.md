@@ -8,6 +8,9 @@ using .NET Core 3.1;
   - [Announcing AWS Lambda support for .NET Core 3.1 | AWS Compute Blog](https://aws.amazon.com/jp/blogs/compute/announcing-aws-lambda-supports-for-net-core-3-1/)
 - [Building Lambda Functions with C# - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html)
 
+## Unofficial
+- [AWS Lambdaが.NET Core 3.1に対応しました | Developers.IO](https://dev.classmethod.jp/articles/lambda-support-dotnet-core-31/)
+
 ## Document
 - Working with C#
   - Deployment Package
