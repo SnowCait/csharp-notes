@@ -53,3 +53,6 @@
 
 ## UnitTest
 - [nuitsjp/xUnit-and-Moq-Hands-on](https://github.com/nuitsjp/xUnit-and-Moq-Hands-on)
+
+## Code Generator
+- [Introducing C# Source Generators | .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
