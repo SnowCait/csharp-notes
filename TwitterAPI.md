@@ -8,3 +8,7 @@
 
 ## UWP
 - [Windows Store Apps(C#)でTwitterを使う](http://ikarostech.hatenablog.com/entry/2015/04/08/161956)
+
+## OAuth Library
+- [AsyncOAuth](https://github.com/neuecc/AsyncOAuth)
+- [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)
