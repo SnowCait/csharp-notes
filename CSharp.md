@@ -46,8 +46,9 @@
 - [C#で他アプリケーションを操作するための基礎知識](https://tech.sanwasystem.com/entry/2015/11/25/171004)
 
 ## スクレイピング
-- [C#でモダンにスクレイピングするならAngleSharp](https://qiita.com/matarillo/items/a92e7efbfd2fdec62595)
-- [スクレイピングにはAngleSharpが良いらしい](http://tekitoumemo.hatenablog.com/entry/2018/09/21/005721)
+- [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp)
+  - [C#でモダンにスクレイピングするならAngleSharp](https://qiita.com/matarillo/items/a92e7efbfd2fdec62595)
+  - [スクレイピングにはAngleSharpが良いらしい](http://tekitoumemo.hatenablog.com/entry/2018/09/21/005721)
 
 ## MSBuild
 - [MSBuild - Visual Studio | Microsoft Docs](https://docs.microsoft.com/ja-jp/visualstudio/msbuild/msbuild?view=vs-2019)
