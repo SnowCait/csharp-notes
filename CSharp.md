@@ -25,6 +25,9 @@
   - [IHttpClientFactory を使って今はこれ一択と思った話 - Qiita](https://qiita.com/TsuyoshiUshio@github/items/7092fbc510772ce5db63)
 - [HttpClient でリクエストヘッダを設定する (C#) - Qiita](https://qiita.com/c-yan/items/6e506399675e3cc56732)
 
+## JSON
+- [System.Text.Json で型が不定のJSONを扱う(.NET) | Qreat](https://qreat.tech/3292/)
+
 ## PowerShell
 - [C#からPowerShellコマンドの実行](https://qiita.com/akihiro-o/items/bd0ff97f39f95df6c3e3)
 
