@@ -1,5 +1,8 @@
 # Twitter API
 
+## .NET 6
+- [.NET 6 (C#) で Twitter API v2 の OAuth 2.0 を試す](https://zenn.dev/snowcait/articles/32c351553ae67c)
+
 ## .NET Standard
 - [CoreTweet](https://www.nuget.org/packages/CoreTweet)
 - [Twitter.Api](https://www.nuget.org/packages/Twitter.Api/)
