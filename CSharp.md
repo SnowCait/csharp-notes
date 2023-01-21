@@ -27,6 +27,10 @@
 
 ## JSON
 - [System.Text.Json で型が不定のJSONを扱う(.NET) | Qreat](https://qreat.tech/3292/)
+- [System.Text.Json で派生クラスのプロパティをシリアル化する方法 | Microsoft Learn](https://learn.microsoft.com/ja-jp/dotnet/standard/serialization/system-text-json/polymorphism?pivots=dotnet-7-0)
+- 共通でシリアライズするために Nullable な共通型を作る
+- JSON String なプロパティにして 2 段階でシリアライズ
+- 深さを指定して 2 段階でシリアライズ
 
 ## PowerShell
 - [C#からPowerShellコマンドの実行](https://qiita.com/akihiro-o/items/bd0ff97f39f95df6c3e3)
